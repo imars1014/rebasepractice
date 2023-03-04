@@ -8,7 +8,8 @@ int main()
     int A;
     int B;
     int C;
-    
+
     i=1;
     j=2;
+    k=i+j;
 }
