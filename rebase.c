@@ -12,5 +12,5 @@ int main()
     i=1;
     j=2;
     k=i+j;
-    A=B+C
+    A=B+C;
 }
